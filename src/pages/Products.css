@@ -1,0 +1,17 @@
+.photo-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 30px;
+}
+
+.photo-list__item{
+  width: 30%;
+}
+.photo-list__link{ 
+  text-align: center;
+}
+.photo-list__image{
+  width: 100%;
+}

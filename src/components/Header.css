@@ -1,0 +1,12 @@
+.header {
+  background-color: black;
+}
+
+.header__nav{
+  padding: 20px 0;
+  margin: 0;
+}
+
+.header__nav-link{
+  font-size: 21px;
+}
